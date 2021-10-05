@@ -5,7 +5,7 @@
 Repository for **Lab 1** containing skeleton web page files.
 
 
-*Adam:
+Adam:
 I love this incorporating an amusement park into our regular day.
 
 Barry:
@@ -65,4 +65,4 @@ Barry:
 Wonder what it'll be like?
 
 Adam:
-A little scary.*
+A little scary.
