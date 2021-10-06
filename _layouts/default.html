@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Web Programming</title>
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
   </head>
   <body>
   <nav>
-    <ul><li><a href="/">Home</a></li>
+    <ul>
+      <li><a href="/">Home</a></li>
       <li><a href="/blog">Blog</a></li>
     </ul>
    </nav>
    <div class="container">
-     <div class="blurb">
+     
+     {{ content }}
+     
+   </div>
      <h1>Hello World</h1>
      <p>Dominos Police Car</p>
        <img src="images/testimage.jpg" alt="Dominos Police Car">
