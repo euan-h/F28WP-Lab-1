@@ -1,3 +1,4 @@
 name: web programming F28WP-Lab-1
 markdown: kramdown
 theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
